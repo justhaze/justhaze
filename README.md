@@ -4,7 +4,7 @@
 
 <h2>☁️AWS Cloud Projects:</h2>
 
-  - [project name here](reopsitorylink)
+  - [Created a static webpage in S3](https://www.loom.com/share/8b4827c521f1486aab0ddf3d3a984b61)
   
 <h2>🐍Python Projexts:</h2>
 
