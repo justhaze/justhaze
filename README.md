@@ -9,6 +9,7 @@
 <h2>🐍Python Projects:</h2>
 
 - [Create KeyPair in Python in AWS](https://www.loom.com/share/9cfc0fb06186406fb7714a01e489fd87)
+- [Rock Paper Scissors game](https://github.com/justhaze/PythonProjects/blob/master/rockpaperscissors.py)
 
 
 <h2> 🤳 Connect with me:</h2>
