@@ -12,6 +12,7 @@
 - [Create KeyPair in Python in AWS](https://www.loom.com/share/9cfc0fb06186406fb7714a01e489fd87)
 - [Rock Paper Scissors game](https://github.com/justhaze/PythonProjects/blob/main/rock%20paper%20scissors%20w%20images.py)
 - [Password Generator](https://github.com/justhaze/PythonProjects/blob/main/Password%20generator%20undone.py)
+- [Tip Calculator](https://github.com/justhaze/PythonProjects/blob/main/Tip%20calculator.py) 
 
 <h2> 🤳 Connect with me:</h2>
 
