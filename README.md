@@ -6,7 +6,7 @@
 
   - [Created a static webpage in S3](https://www.loom.com/share/8b4827c521f1486aab0ddf3d3a984b61)
   
-<h2>🐍Python Projexts:</h2>
+<h2>🐍Python Projects:</h2>
 
 - [Create KeyPair in Python in AWS](https://www.loom.com/share/9cfc0fb06186406fb7714a01e489fd87)
 
